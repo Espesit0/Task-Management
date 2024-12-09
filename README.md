@@ -1,7 +1,5 @@
 # Task-Management System
 
-# Task and Project Management System  
-
 A web-based application designed to help manage tasks and projects effectively, developed during my internship project. This system simplifies task allocation, tracks progress, and ensures efficient project delivery.  
 
 ## 🚀 Features  
@@ -45,8 +43,4 @@ This project was created to assist in managing IT-related tasks and projects eff
 ├── assets/           # Contains CSS, JavaScript, and logo files  
 ├── uploads/          # Folder for PDF file attachments  
 
- Contributions
-Feel free to fork this project and submit pull requests. Contributions are welcome!
 
-📄 License
-This project is open-source and available under the MIT License.
