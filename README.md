@@ -45,3 +45,8 @@ This project was created to assist in managing IT-related tasks and projects eff
 ├── assets/           # Contains CSS, JavaScript, and logo files  
 ├── uploads/          # Folder for PDF file attachments  
 
+ Contributions
+Feel free to fork this project and submit pull requests. Contributions are welcome!
+
+📄 License
+This project is open-source and available under the MIT License.
